@@ -1,1 +1,1 @@
-# Sliding-RandAugment
+# Sliding RandAugment
